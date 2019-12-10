@@ -20,6 +20,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      
+  - scope: 
+      path: "assets/"
+    values: 
+      image: true
 
 future: true
 plugins:

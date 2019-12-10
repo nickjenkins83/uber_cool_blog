@@ -7,4 +7,4 @@ I'm a vet and dad who loves technology. I occasionally like to bug bounty and ch
                     
 
 
-{% avatar nickjenkins83 size=50 %}
+{% avatar nickjenkins83 %}
